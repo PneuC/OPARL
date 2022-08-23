@@ -1,3 +1,3 @@
 # OPARL - Online Mario Level Generation from Music
 
-**To be sort out**
+The repository has been move to https://github.com/SUSTechGameAI/OPARL
